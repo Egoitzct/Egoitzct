@@ -25,17 +25,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://instagram.com/eg_carral?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="discordapp.com/users/ecarral002" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Egoitzct/Egoitzct/output/snake.svg" alt="Snake animation" />
