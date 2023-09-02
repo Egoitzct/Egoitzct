@@ -1,8 +1,11 @@
-![](https://capsule-render.vercel.app/api?text=Hello!&animation=fadeIn&type=waving&color=auto&height=100)
+<p align="center">
+<img
+  src="https://capsule-render.vercel.app/api?text=Hello!&animation=fadeIn&type=waving&color=auto&height=100" alt="Hellow"/>
+</p>
 
 ---
 
-### 🔍 A little bit about me
+<h3 align="center">🔍 A little bit about me</h3> 
 
 ```yaml
 name: Egoitz Carral
@@ -23,7 +26,7 @@ currently_learning: ["torch"]
 
 ---
 
-### 📡 Tools I use (or I Have Learned)
+<h3 align="center">📡 Tools I use (or I Have Learned)</h3>
 
 <p align="center">
 <img
@@ -38,8 +41,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" 
 
 ---
 
-### 👀 Visitor Count
+<h3 align="center">👀 Visitor Count</h3>
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/Egoitzct/count.svg" alt="Visitor Count">
+    src="https://profile-counter.glitch.me/Egoitzct/count.svg" alt="Visitor Count"/>
 </p>
