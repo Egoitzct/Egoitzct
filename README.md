@@ -40,4 +40,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" 
 
 ## Music
 
-![Apple Music](https://music-profile.rayriffy.com/theme/light.svg?uid=000569.ee56b5a1ad6b4ceca38be1e47053b7e4.1341)](https://github.com/rayriffy/apple-music-github-profile)
+[![Apple Music](https://music-profile.rayriffy.com/theme/light.svg?uid=000569.ee56b5a1ad6b4ceca38be1e47053b7e4.1341)](https://github.com/rayriffy/apple-music-github-profile)
