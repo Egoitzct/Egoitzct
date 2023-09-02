@@ -1,31 +1,53 @@
-<h2 align="left">Hi 👋! My name is Egoitz and I'm a psychology student at EHU/UPV</h2>
+![](https://capsule-render.vercel.app/api?text=Hello!&animation=fadeIn&type=waving&color=auto&height=100)
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Egoitzct&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Egoitzct&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🔍 A little bit about me
 
-###
+```yaml
+name: Egoitz Carral
+education: Studying psychology at EHU/UPV
 
-<img align="right" height="150" src="https://pbs.twimg.com/profile_images/1604525708654551087/q8SKmatv_400x400.jpg"  />
+fields_of_interests:
+  [
+  "R",
+  "Data Science",
+  "Python",
+  "Web Development",
+  "Machine Learning",
+  "Statistical Learning"
+  ]
 
-###
+currently_learning: ["torch"]
+```
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
-  <img width="12" />
-</div>
+---
 
-###
+### 📡 Tools I use (or I Have Learned)
 
-<br clear="both">
+<p align="center">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" height="45"/>
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="45" height="45"/>
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="45" height="45"/>
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" alt="IMB SPSS" width="45" height="45"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/Egoitzct/Egoitzct/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## Music
+
+```yaml
+name: Apple Music - /usr/share
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.music.playlist.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_music: yes
+  plugin_music_playlist: https://embed.music.apple.com/es/playlist/usr-share/pl.u-oZylD0aFGa0N3NK
+  plugin_music_limit: 4
+```
