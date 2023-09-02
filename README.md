@@ -40,14 +40,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" 
 
 ## Music
 
-```yaml
-name: Apple Music - /usr/share
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.music.playlist.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_music: yes
-  plugin_music_playlist: https://embed.music.apple.com/es/playlist/usr-share/pl.u-oZylD0aFGa0N3NK
-  plugin_music_limit: 4
-```
+<p align="center">
+<img
+src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.music.playlist.svg"/>
