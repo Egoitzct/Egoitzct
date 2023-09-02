@@ -38,4 +38,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" 
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/Egoitzct/count.svg){ width="800" height="600" style="display: block; margin: 0 auto" }
+![Visitor Count](https://profile-counter.glitch.me/Egoitzct/count.svg&align=center)
