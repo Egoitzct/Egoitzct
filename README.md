@@ -37,3 +37,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" 
 </p>
 
 ---
+
+![Visitor Count](https://profile-counter.glitch.me/Egoitzct/count.svg)
