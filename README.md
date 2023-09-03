@@ -21,7 +21,7 @@ fields_of_interests:
   "Statistical Learning"
   ]
 
-currently_learning: ["torch"]
+currently_learning: ["torch and Data Science in R"]
 ```
 
 ---
