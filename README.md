@@ -7,22 +7,24 @@
 
 <h3 align="center">🔍 A little bit about me</h3> 
 
-```yaml
+
 name: Egoitz Carral
+
 education: Studying psychology at EHU/UPV
 
-fields_of_interests:
-  [
-  "R",
-  "Data Science",
-  "Python",
-  "Web Development",
-  "Machine Learning",
-  "Statistical Learning"
-  ]
-
-currently_learning: ["torch and Data Science in R"]
-```
+<a
+id="cy-effective-orcid-url"
+class="underline"
+  href="https://orcid.org/0009-0005-2390-3899"
+  target="orcid.widget"
+  rel="me noopener noreferrer"
+  style="vertical-align: top">
+  <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 1em; margin-inline-start: 0.5em"
+    alt="ORCID iD icon"/>
+  https://orcid.org/0009-0005-2390-3899
+</a>
 
 ---
 
